@@ -1,0 +1,47 @@
+PROPRIETARY SOFTWARE LICENSE
+
+ProductSpy — AI Winning Product Finder
+Copyright (c) 2026 ProductSpy by G. Shakeel. All rights reserved.
+Created by G. Shakeel, United Kingdom.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+OWNERSHIP
+---------
+This software, including all source code, design, content, AI prompts,
+and associated files (collectively, "the Software"), is the exclusive
+intellectual property of G. Shakeel (trading as ProductSpy), protected
+under the Copyright, Designs and Patents Act 1988 (United Kingdom) and
+applicable international copyright law.
+
+RESTRICTIONS
+------------
+You may NOT, without prior written permission from the owner:
+
+  1. Copy, reproduce, or duplicate the Software or any part of it.
+  2. Modify, adapt, translate, or create derivative works based on it.
+  3. Distribute, publish, sublicense, sell, or transfer the Software.
+  4. Use the Software or any part of it for commercial purposes.
+  5. Remove or alter any copyright, trademark, or proprietary notices.
+  6. Reverse-engineer, decompile, or disassemble the Software.
+
+PERMITTED USE
+-------------
+Viewing this repository on GitHub for personal, non-commercial reference
+is permitted. No other rights are granted.
+
+COMMERCIAL LICENSING
+--------------------
+For licensing inquiries, partnerships, or commercial use permissions,
+contact the owner directly via GitHub: https://github.com/byshak
+
+NO WARRANTY
+-----------
+This Software is provided for informational and educational purposes only.
+AI-generated product suggestions should always be validated with real
+market research before any investment is made. The owner accepts no
+liability for business decisions made based on this Software.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+© 2026 ProductSpy by G. Shakeel. All rights reserved.
